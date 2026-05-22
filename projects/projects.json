@@ -2,7 +2,7 @@
     {
     "name": "MindWeaveAI | AI Learning Platform",
     "desc": "Developed a full-stack AI learning platform featuring adaptive course generation, learner analytics, and multi-agent AI orchestration.",
-    "image": "Mind",
+    "image": "mind",
     "category": "AILearning",
     "links": {
       "view": "https://mind-weave-ai-rho.vercel.app/",
