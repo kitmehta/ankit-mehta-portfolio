@@ -3,7 +3,7 @@
 Welcome to my **Portfolio Website**! 🚀
 This is my personal portfolio built using **HTML5, CSS3, JavaScript, and jQuery**, showcasing my skills, projects, and experience in **frontend, backend, and full-stack development**.
 
-[🌐 Visit Live Website](https://your-portfolio-live-link.netlify.app/)
+[🌐 Visit Live Website](https://kitmehta.github.io/ankit-mehta-portfolio/)
 
 ---
 
@@ -25,16 +25,7 @@ I built this website using the following technologies:
 * **Font Awesome** — Icons
 * **Tawk.to** — Live chat support
 
----
 
-## 🖥️ Sneak Peek
-
-Here’s a glimpse of my portfolio homepage and features:
-
-![Portfolio Mockup](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![Portfolio Screenshot](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
-
----
 
 ## 🚀 Features
 
@@ -70,7 +61,7 @@ Feel free to connect with me on social media or reach out directly:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kitmehta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kitmehta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mehtaankit318@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/yourinstalink)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kitmehta/)
 
 ---
 
