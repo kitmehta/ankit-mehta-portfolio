@@ -267,8 +267,8 @@ section {
 /* ========== PROJECTS SECTION ========== */
 .work .box-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.5rem;
 }
 
 .work .box-container .box {
@@ -279,10 +279,22 @@ section {
   transition: 0.3s;
 }
 
+.work .box-container .box {
+
+  min-height: 30rem;
+}
+
 .work .box-container .box:hover {
   transform: translateY(-5px);
 }
 
+@media(max-width: 768px){
+
+  .work .box-container {
+
+    grid-template-columns: 1fr;
+  }
+}
 /* ========== CONTACT SECTION ========== */
 .contact .container {
   display: flex;

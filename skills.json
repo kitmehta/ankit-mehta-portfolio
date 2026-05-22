@@ -1,11 +1,91 @@
 [
   {
-    "name": "Articulate Storyline 360",
+    "name": "Instructional Design",
     "icon": "https://img.icons8.com/fluency/48/training.png"
   },
   {
-    "name": "SCORM",
+    "name": "ADDIE Methodology",
+    "icon": "https://img.icons8.com/fluency/48/task.png"
+  },
+  {
+    "name": "Bloom’s Taxonomy",
+    "icon": "https://img.icons8.com/fluency/48/mind-map.png"
+  },
+  {
+    "name": "Adult Learning Principles",
+    "icon": "https://img.icons8.com/color/96/classroom.png"
+  },
+  {
+    "name": "Learning Experience Design (LXD)",
+    "icon": "https://img.icons8.com/fluency/48/learning.png"
+  },
+  {
+    "name": "Microlearning",
+    "icon": "https://img.icons8.com/fluency/48/microphone.png"
+  },
+  {
+    "name": "Scenario-Based Learning",
+    "icon": "https://img.icons8.com/color/96/training.png"
+  },
+  {
+  "name": "Storyboarding",
+  "icon": "https://img.icons8.com/color/96/design.png"
+  },
+  {
+    "name": "Needs Analysis",
+    "icon": "https://img.icons8.com/fluency/48/combo-chart.png"
+  },
+  {
+    "name": "Learning Analytics",
+    "icon": "https://img.icons8.com/fluency/48/analytics.png"
+  },
+  {
+    "name": "Interactive Simulations",
+    "icon": "https://img.icons8.com/fluency/48/controller.png"
+  },
+  {
+    "name": "Enterprise Software Training",
+    "icon": "https://img.icons8.com/fluency/48/software-installer.png"
+  },
+  {
+    "name": "Instructor-Led Training (ILT)",
+    "icon": "https://img.icons8.com/color/96/presentation.png"
+  },
+  {
+    "name": "SME Collaboration",
+    "icon": "https://img.icons8.com/fluency/48/conference-call.png"
+  },
+  {
+    "name": "Articulate Storyline 360",
+    "icon": "https://img.icons8.com/color/96/e-learning.png"
+  },
+  {
+    "name": "Adobe Captivate",
+    "icon": "https://img.icons8.com/color/96/adobe-acrobat.png"
+  },
+  {
+    "name": "SCORM Integration",
     "icon": "https://img.icons8.com/fluency/48/module.png"
+  },
+  {
+    "name": "LMS Integration",
+    "icon": "https://img.icons8.com/color/48/google-classroom.png"
+  },
+  {
+    "name": "AI-Assisted Content Creation",
+    "icon": "https://img.icons8.com/fluency/48/artificial-intelligence.png"
+  },
+  {
+    "name": "AI Learning Solutions",
+    "icon": "https://img.icons8.com/fluency/48/chatgpt.png"
+  },
+  {
+    "name": "Adaptive Learning",
+    "icon": "https://img.icons8.com/fluency/48/learning.png"
+  },
+  {
+    "name": "Curriculum Development",
+    "icon": "https://img.icons8.com/fluency/48/curriculum.png"
   },
   {
     "name": "Adobe Photoshop",
@@ -14,22 +94,6 @@
   {
     "name": "Adobe Premiere Pro",
     "icon": "https://img.icons8.com/color/48/adobe-premiere-pro.png"
-  },
-  {
-    "name": "LMS Integration",
-    "icon": "https://img.icons8.com/color/48/google-classroom.png"
-  },
-  {
-    "name": "Instructional Design (ADDIE, Bloom’s Taxonomy)",
-    "icon": "https://img.icons8.com/fluency/48/task.png"
-  },
-  {
-    "name": "Curriculum Design & Storyboarding",
-    "icon": "https://img.icons8.com/fluency/48/storytelling.png"
-  },
-  {
-    "name": "Python",
-    "icon": "https://img.icons8.com/color/48/python--v1.png"
   },
   {
     "name": "HTML5",
@@ -44,28 +108,24 @@
     "icon": "https://img.icons8.com/color/48/javascript--v1.png"
   },
   {
-    "name": "TailwindCSS",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+    "name": "React.js",
+    "icon": "https://img.icons8.com/officel/48/react.png"
   },
   {
-    "name": "AWS",
-    "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
-  },
-  {
-    "name": "Microsoft Azure",
-    "icon": "https://img.icons8.com/color/48/azure-1.png"
-  },
-  {
-    "name": "Docker",
-    "icon": "https://img.icons8.com/color/48/docker.png"
-  },
-  {
-    "name": "Kubernetes",
-    "icon": "https://img.icons8.com/color/48/kubernetes.png"
+    "name": "Node.js",
+    "icon": "https://img.icons8.com/color/48/nodejs.png"
   },
   {
     "name": "Git",
     "icon": "https://img.icons8.com/color/48/git.png"
+  },
+  {
+    "name": "LMS Integration",
+    "icon": "https://img.icons8.com/color/48/google-classroom.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/python--v1.png"
   },
   {
     "name": "GitHub",
@@ -74,9 +134,5 @@
   {
     "name": "Office 365",
     "icon": "https://img.icons8.com/color/48/office-365.png"
-  },
-  {
-    "name": "SME Collaboration",
-    "icon": "https://img.icons8.com/fluency/48/conference-call.png"
   }
 ]
