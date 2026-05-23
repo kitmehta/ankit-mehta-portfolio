@@ -651,47 +651,19 @@ header .navbar ul li a:hover {
 .work .heading span {
   color: rgb(255, 230, 0);
 }
-
-
 .work .box-container {
-
-  display: grid;
-
-  grid-template-columns: repeat(2, 1fr);
-
-  gap: 5rem;
-
-  max-width: 1200px;
-
-  margin: 4rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 2rem;
 }
-
-
-.work .box-container .box:last-child {
-
-  grid-column: span 2;
-
-  max-width: 600px;
-
-  margin: 0 auto;
-}
-
-
 .work .box-container .box {
-
-  width: 100%;
+  flex: 1 1 30rem;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
   height: 30rem;
-}
-@media(max-width: 768px){
-
-  .work .box-container {
-
-    grid-template-columns: 1fr;
-  }
 }
 .work .box-container .box img {
   height: 100%;
